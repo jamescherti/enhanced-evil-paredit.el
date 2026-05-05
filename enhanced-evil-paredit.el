@@ -231,7 +231,7 @@ of the block."
 (defun enhanced-evil-paredit-change-whole-line ()
   "Change whole line."
   (interactive)
-  (beginning-of-line)
+  (goto-char (line-beginning-position))
   (enhanced-evil-paredit-change-line nil nil)
   (indent-according-to-mode))
 
