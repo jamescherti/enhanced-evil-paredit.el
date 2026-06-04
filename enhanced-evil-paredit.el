@@ -5,7 +5,7 @@
 
 ;; Mantainer: James Cherti
 ;; Original author: Roman Gonzalez <romanandreg@gmail.com>
-;; Version: 1.0.4
+;; Version: 1.0.5
 ;; URL: https://github.com/jamescherti/enhanced-evil-paredit.el
 ;; Keywords: convenience
 ;; Package-Requires: ((emacs "24.1") (evil "1.0.9") (paredit "25beta"))
