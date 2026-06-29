@@ -1,5 +1,5 @@
 # enhanced-evil-paredit.el - Prevent Parenthesis Imbalance when Using Evil-mode with Paredit
-![Build Status](https://github.com/jamescherti/enhanced-evil-paredit.el/actions/workflows/ci.yml/badge.svg)
+![Build Status](https://github.com/jamescherti/enhanced-evil-paredit.el/actions/workflows/melpazoid.yml/badge.svg)
 [![MELPA](https://melpa.org/packages/enhanced-evil-paredit-badge.svg)](https://melpa.org/#/enhanced-evil-paredit)
 [![MELPA Stable](https://stable.melpa.org/packages/enhanced-evil-paredit-badge.svg)](https://stable.melpa.org/#/enhanced-evil-paredit)
 ![License](https://img.shields.io/github/license/jamescherti/enhanced-evil-paredit.el)
