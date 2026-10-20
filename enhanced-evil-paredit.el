@@ -70,9 +70,6 @@ This is an experimental feature."
 (defvar enhanced-evil-paredit-mode-map (make-sparse-keymap)
   "Keymap for `enhanced-evil-paredit-mode'.")
 
-(declare-function pos-bol nil)
-(declare-function pos-eol nil)
-
 (defalias 'enhanced-evil-paredit--pos-bol
   (if (fboundp 'pos-bol) #'pos-bol #'line-beginning-position))
 
